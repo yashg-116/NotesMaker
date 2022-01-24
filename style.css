@@ -13,7 +13,7 @@ a {
   display: flex;
   height: 80px;
   width: 100%;
-  background-color: rgb(250, 250, 8);
+  background-color: rgb(228, 228, 57);
 }
 h1 {
   font-size: 50px;
@@ -24,7 +24,7 @@ h1 {
 }
 .add-note {
   position: relative;
-  background-color: rgb(250, 250, 8);
+  background-color: rgb(228, 228, 57);
   color: white;
   width: 8rem;
   padding: 0.5rem;
@@ -55,7 +55,7 @@ input {
   background: transparent;
   border: none;
   border-bottom: 1px solid #ffffff;
-  color: rgb(250, 250, 8);
+  color: rgb(228, 228, 57);
   font-size: 30px;
 }
 h1 {
@@ -103,7 +103,7 @@ h1 {
   position: relative;
   width: 40%;
   left: 10%;
-  background: rgb(250, 250, 8);
+  background: rgb(228, 228, 57);
   top: 10%;
   border: 50px solid white;
   border-radius: 15px;
