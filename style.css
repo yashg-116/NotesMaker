@@ -31,6 +31,7 @@ h1 {
   border-radius: 5px;
   left: 10%;
   top: 5%;
+  font-size: larger;
 }
 .add-note:hover {
   opacity: 0.7;
